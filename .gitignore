@@ -1,0 +1,34 @@
+@"
+# Frontend
+frontend/react/node_modules/
+frontend/react/dist/
+frontend/react/build/
+frontend/react/.env
+frontend/react/.env.local
+
+# Backend
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+.Python
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+"@ | Out-File -FilePath .gitignore -Encoding utf8 -Force

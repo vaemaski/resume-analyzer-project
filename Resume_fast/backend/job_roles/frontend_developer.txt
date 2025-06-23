@@ -1,0 +1,21 @@
+HTML
+CSS
+JavaScript
+React
+Next.js
+Redux
+Responsive Design
+Tailwind CSS
+Bootstrap
+APIs
+REST
+Git
+Version Control
+NPM
+Vite
+ES6
+TypeScript
+Web Performance
+Figma
+Cross-Browser Compatibility
+Accessibility

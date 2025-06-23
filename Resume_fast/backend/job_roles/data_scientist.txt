@@ -1,0 +1,20 @@
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Scikit-learn
+Machine Learning
+Data Cleaning
+Feature Engineering
+EDA
+SQL
+Deep Learning
+TensorFlow
+Keras
+Model Evaluation
+Regression
+Classification
+Statistics
+Data Visualization
+Jupyter Notebook

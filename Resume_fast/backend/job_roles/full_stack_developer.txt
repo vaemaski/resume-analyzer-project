@@ -1,0 +1,21 @@
+HTML
+CSS
+JavaScript
+React
+Node.js
+Express.js
+MongoDB
+PostgreSQL
+REST API
+Git
+Docker
+Redux
+JWT
+Authentication
+SQL
+Nginx
+FastAPI
+Python
+Frontend
+Backend
+DevOps
